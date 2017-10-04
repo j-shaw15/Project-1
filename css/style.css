@@ -1,3 +1,20 @@
 body {
     background-color: lightgreen; 
 }
+#header {
+    border-style:hidden;
+    border-color:none;
+    border-bottom: thick;
+    border-bottom-style:solid;
+    border-bottom-color: red; 
+    font-family:monospace;
+}
+h1 {
+    text-align: right;
+}
+h2 {
+    text-align: right;
+}
+img {
+    text-align: left;
+}
