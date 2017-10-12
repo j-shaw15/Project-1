@@ -44,8 +44,17 @@ h2 {
 
 #main-content-wrapper
 
-#skills span{font-weight: 400; 
-    #favorite-sites {
-        display:felx;
-        justify-content: space-around;
-    }
+#skills span{
+    font-weight: 400; 
+}
+    
+#logos {
+    text-align:center;
+    display:flex;
+    justify-content: space-around;
+}
+#text {
+    color: red;
+    font-size: 50;
+    
+}
