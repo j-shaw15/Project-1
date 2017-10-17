@@ -1,5 +1,7 @@
 body {
     background-color: white; 
+    margin-right: 310px;
+    margin-left: 310px;
 }
 #header {
     border-style:hidden;
@@ -27,15 +29,6 @@ h2 {
 
 .image-content{text-align: center; margin:0 auto; margin-top: 50px;}
 
-/*.image-content > img{max-width: 200px; border-radius: 50%;}*/
-
-.image-content > h4{font-family: 'Lato',sans-serif; font-weight: 300; color: #0CE88D}
-
-.image-content > h4 > a{color: #0CE88D}
-
-.image-content > h4 > a:hover{color: #0D9DFF}
-#main-content-wrapper article{}
-#main-content-wrapper article h2{text-align: center;}
 
 #main-content-wrapper article p{max-width: 300px; margin: 0 auto;}
 
@@ -44,17 +37,33 @@ h2 {
 
 #main-content-wrapper
 
+
+
 #skills span{
-    font-weight: 400; 
-}
-    
+    font-weight: 400;
+}    
+
+
+/*
 #logos {
     text-align:center;
     display:flex;
     justify-content: space-around;
 }
+*/
 #text {
-    color: red;
-    font-size: 50;
-    
+    color: black;
+    font-size: 50px;
+    font-family:monospace;
 }
+
+#img1, #img2, #img3, #img4{
+	width: 410px;
+	height: 400px;
+	float: left;
+	text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+
