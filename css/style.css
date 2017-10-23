@@ -66,4 +66,18 @@ h2 {
     font-size: 30px;
 }
 
+.modal fadeS {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+
+
+
+
+
 
