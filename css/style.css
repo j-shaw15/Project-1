@@ -23,19 +23,34 @@ h2 {
     
 }
 #main-content-wrapper{
-    background-color: #fff;
-    
+
+    max-width: 300px; 
+    margin: 0 auto;
+
 }
 
-.side-by-side{}
+.side-by-side{
+/*
+    width:2500px;
+    height:500px;
+    overflow:hidden;
+    margin:auto;
+*/
+}
 
+.section {
+
+}
 #main-content-wrapper 
 
 .image-content{
-    text-align: center; 
+    
+/*
     margin:0 auto; 
     margin-top: 50px;
     max-width: 100%;
+    height: auto;
+*/
     
     
 }
