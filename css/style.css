@@ -19,41 +19,7 @@ h2 {
     text-align: right;
 }
 
-#middle-wrapper {
-    
-}
-#main-content-wrapper{
 
-    max-width: 300px; 
-    margin: 0 auto;
-
-}
-
-.side-by-side{
-/*
-    width:2500px;
-    height:500px;
-    overflow:hidden;
-    margin:auto;
-*/
-}
-
-.section {
-
-}
-#main-content-wrapper 
-
-.image-content{
-    
-/*
-    margin:0 auto; 
-    margin-top: 50px;
-    max-width: 100%;
-    height: auto;
-*/
-    
-    
-}
 
 
 #main-content-wrapper article p{max-width: 300px; margin: 0 auto;}
@@ -61,9 +27,6 @@ h2 {
 #main-content-wrapper 
 
 #skills{text-align: center; font-weight: 300; letter-spacing: 2px;}
-
-#main-content-wrapper
-
 
 
 #skills span{
